@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'snake-game.png',
     title: 'Snake Game',
-    info: 'A new version of the classic Snake game with cool new features, sounds and LS setup. Trust me, you are going to want to try this one. Just make sure you got volume turned on.',
+    info: 'A new version of the classic Snake game with cool new features, sounds and LS setup. Trust me, you are going to want to try this one. Just make sure your speakers are switched on.',
     info2: 'Javascript | HTML | CSS',
     url: 'https://amitaysoffer.github.io/snake-game/',
     repo: 'https://github.com/amitaysoffer/snake-game', // if no repo, the button will not show up
