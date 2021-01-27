@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile-pic.jpg',
   paragraphOne: 'Hi, I am a developer with a thorough knowledge of JavaScript, React and Node.js. I have a host of projects to demonstrate that, along side hands on experiece developing various products to clients and internal tools.',
   paragraphTwo: 'I spent the last several years working in the ad-tech industry, successfully managing and implementing various products whilst extensively using Javascript, HTML and CSS. About six months ago I left my comfort zone in order to pursue my dream of becoming a full time web developer. Since then I joined a unique coding mentorship program in which I am learning new things every single day.',
-  paragraphThree: 'Today I live in the UK, working hard every day to polish my skills and to write better and cleaner code. If not coding, I\'\m probably in the football pitch playing or watching a game. Or, practicing my long journey of mastering the French language. Mais retournons á nos moutons, ah?',
+  paragraphThree: 'Today I live in the UK, working hard every day to polish my skills and to write better and cleaner code. If not coding, I\'\m probably in the football pitch playing or watching a game. Or, practicing my long journey of mastering the French language. Mais retournons á nos moutons, hein?',
   resume: 'https://drive.google.com/file/d/1yW4NgDhNMcWdqZ69ocK9OW4waT-Fw-d0/view?usp=sharing', // if no resume, the button will not show up
 };
 
